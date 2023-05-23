@@ -1,7 +1,7 @@
 # UrgencyBot
 Medical chatbot using gradio and GPT4 api to provide medical advice
 
-#WARNING 
+# WARNING 
 This project is a test of GPT4's medical features and should not be used for real use cases!
 
 # Instructions
